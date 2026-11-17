@@ -48,3 +48,5 @@ The script pulls the engine out of `index.html` and checks the parser, the sampl
 ## Not implemented
 
 Inequalities, polar curves, sliders, degrees mode, and pinch-to-zoom.
+
+Angles are in radians.
